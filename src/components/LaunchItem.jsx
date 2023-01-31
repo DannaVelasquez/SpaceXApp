@@ -30,5 +30,5 @@ export function LaunchItem(launch){
             </Button>
             </Link>
           </Box>
-    )
+    );
 }
